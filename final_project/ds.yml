@@ -1,0 +1,30 @@
+name: ds 
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - jupyter
+  - earthpy
+  - folium
+  - geopandas
+  - matplotlib
+  - mongodb
+  - netCDF4
+  - numpy
+  - pandas
+  - pycrs
+  - pytorch
+  - rasterio
+  - scipy
+  - scikit-learn
+  - shapely
+  - xarray
+  - ipywidgets
+  - jupyterhub-singleuser
+  - jupyter-server-proxy
+  - jupyterlab=3
+  - jupyter-resource-usage
+  - nbgitpuller
+  - pip=20
+
